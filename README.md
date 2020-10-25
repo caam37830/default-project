@@ -48,20 +48,6 @@ Your final report should contain a description of the models, the variations/int
 
 The final report will be due during finals period.
 
-## Proposing Your Own Project
+### Evaluation
 
-If you would like to work on a different project, you can make a proposal.  The guidelines are
-1. It must be a group project with 3 or 4 group members
-2. It should be similar in scope to the default project
-3. It can not require huge amounts of compute (unless you have access to additional computational resources) - we only have so many hours on Midway available for this course.
-
-Please submit a 1-page (or less) proposal to the instructor and TAs including the names of the group members and a high-level description of the proposed project (include what you would do by the midterm checkpoint).  As with the default project, you can use the midterm checkpoint to propose some variations and extensions for the final submission.  Keep in mind that you will likely receive less guidance from the course staff on carrying out the project.
-
-Your proposal is not guaranteed to be accepted, but we will do our best to make things work.  We may make some suggestions to tailor your proposal.
-
-If you are proposing your own project, please submit the proposal by **Friday, October 16**
-
-
-## Group Assignment
-
-Groups will be 3 or 4 people.  Unless you are proposing your own project, groups will be assigned.  If two people would like to be assigned to the same group, send an email with your partner CC'd to the instructor and TAs requesting to be in the same group.  We'll do our best to keep partners together.
+10% of project work will be based on teammate evaluations.  These evaluations will be kept confidential.  If you believe your score to be unfair, you can reach out to the instruction staff.  We will look at git logs/history if we need to resolve any disputes.

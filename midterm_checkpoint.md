@@ -47,7 +47,7 @@ How well do the discrete and ODE simulations agree?
 In addition to the code you will write, you should prepare a preliminary report.  This can either be a PDF or a file which can be viewed in a web browser.  Put your report in the `doc/checkpoint` folder in the repository, which should contain any files and figures, as well as instructions to generate the PDF or html files (if they are generated from LaTeX, Markdown, etc.)
 
 Your report should have 4 sections.
-1. A brief introduction to the SIR model, and notation you will use.  You can use [`SIR.md`](SIR.md), or other resources (cite any other resources that contribute to your discussion).
+1. A brief introduction to the SIR model, and notation you will use.  You can use [`SIR.md`](SIR.md), as well as other resources (cite any other resources that contribute to your discussion).
 2. A brief description of how you are structuring the Python package `sir`.
 3. Report on your preliminary investigations using the agent-based and continuous models.
 4. Your proposed variations/improvements for the final project.
@@ -62,6 +62,8 @@ Section 4 should include 1 proposed variation for each member of the group (e.g.
 2. Any changes to the model in the variation
 3. If you are using data, where you will obtain the data
 4. If your variation uses a model or idea from a paper or website, include any references
+
+Your report should have a list of references - likely some for your background on the SIR model, and some for your proposed variations.
 
 If you have specific questions for the course staff, please also list them for each model.
 

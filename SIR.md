@@ -8,7 +8,7 @@ When a disease is spreading through a population, the SIR model puts individuals
 ## Model parameters
 
 There are two parameters in the model:
-* `b`: the number of other individuals an individual interacts with each day
+* `b`: the number of interactions each day that could spread the disease (per individual)
 * `k`: the fraction of the infectious population which recovers each day
 
 ## Agent-based model

@@ -1,9 +1,11 @@
 # Midterm Checkpoint
 
+The midterm checkpoint will be due 11/13 at 12pm (noon) Chicago time.
+
 For the midterm checkpoint, you should do the following:
 1. Read about the SIR model of disease spread - you can find information in [SIR.md](SIR.md).
 2. Implement Python code to run simulations of the SIR model (see below), and write a preliminary report
-3. Propose several variations or improvements to the SIR model for the final project.  See the  [README](README.md) for some examples
+3. Propose several variations or improvements to the SIR model for the final project.  See the  [README](README.md) for some example ideas, but you can be creative and follow your interests.
 
 ## Directory Structure
 

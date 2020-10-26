@@ -23,7 +23,7 @@ You'll set up some scripts to run simulations on the Midway compute cluster, run
 
 You will also propose some variations on this theme to run in the final submission.
 
-The midterm checkpoint will be due in early November.
+The midterm checkpoint will be due 11/13 at 12pm (noon) Chicago time.
 
 ### Final Submission
 
@@ -39,6 +39,7 @@ Examples might include:
 4. Fitting the SIR model to COVID-19 data
 5. Implementing a large-scale/high-performance version of the continuous model
 6. Modeling the appearance of a new strain which might re-infect recovered individuals
+7. A nice visualization relating to the project
 
 The variations proposed can be governed by interests of group members.  E.g. if one member is interested in Bayesian hierarchical modeling, they might propose using PyStan to fit data.  If one member is interested in PDEs, they might propose improvements to the continuous model.  You might also propose replicating a computational experiment in a a paper related to this topic.  In general, you should propose variations that will be fairly straightforward to implement, since you might start to drift into research territory otherwise.  You do not need to be exhaustive - the point is just to try out a few different ideas.
 
@@ -48,6 +49,15 @@ Your final report should contain a description of the models, the variations/int
 
 The final report will be due during finals period.
 
-### Evaluation
+## Due Dates
+
+* The Midterm checkpoint will be due 11/13 at 12pm (noon) Chicago time.
+* The Final Report will be due 12/9 at 12pm (noon) Chicago time.
+
+## Evaluation
+
+90% of the project grade will be shared by members of your teams.  This will consist of:
+* 40% code (quality, correctness, etc.)
+* 50% report
 
 10% of project work will be based on teammate evaluations.  These evaluations will be kept confidential.  If you believe your score to be unfair, you can reach out to the instruction staff.  We will look at git logs/history if we need to resolve any disputes.

@@ -5,6 +5,8 @@ When a disease is spreading through a population, the SIR model puts individuals
 2. Infectious - an individual is sick and may spread the disease to susceptible individuals
 3. Removed - sometimes called Recovered - these individuals were previously infectious, and either have recovered and are now immune, or have died.  Either way they can not get the disease again or infect susceptible individuals.
 
+We'll look at a simple SIR model called the Kermack-McKendrick Model.
+
 ## Model parameters
 
 There are two parameters in the model:
@@ -28,4 +30,5 @@ Equation 1 captures how susceptible people are made sick by infectious people by
 ## Resources
 
 * [The SIR Model of Disease Spread (MAA)](https://www.maa.org/press/periodicals/loci/joma/the-sir-model-for-spread-of-disease)
+* [Kermack-McKendrick Model (Wolfram MathWorld)](https://mathworld.wolfram.com/Kermack-McKendrickModel.html)
 * [A SIR model assumption for the spread of COVID-19 in different communities (2020)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7321055/)

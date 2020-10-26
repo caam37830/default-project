@@ -73,4 +73,4 @@ If you have specific questions for the course staff, please also list them for e
 * 40% code (quality, correctness, etc.)
 * 50% preliminary report
 
-10% of the checkpoint grade will be based on teammate evaluations.  These evaluations will be kept confidential.  If you believe your score to be unfair, you can reach out to the instruction staff.  We will look at git logs/history if we need to resolve any disputes.
+10% of the checkpoint grade will be based on teammate evaluations.  These evaluations will be kept confidential.  If you believe your score to be unfair, you can reach out to the instruction staff.  We will look at git logs/history if we need to resolve any disputes.  If you do not participate at all, we reserve the right to remove you from the team.

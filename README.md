@@ -15,6 +15,9 @@ As we go through this course, we'll cover how to solve the different computation
 
 
 ### Midterm Checkpoint
+
+See [midterm_checkpoint.md](midterm_checkpoint.md) for mode details.
+
 We'll start with the SIR (Susceptible-Infected-Removed) model.  The midterm checkpoint will consist of implementing:
 1. A discrete agent-based simulation
 2. A continuous / ODE simulation
@@ -53,11 +56,3 @@ The final report will be due during finals period.
 
 * The Midterm checkpoint will be due 11/13 at 12pm (noon) Chicago time.
 * The Final Report will be due 12/9 at 12pm (noon) Chicago time.
-
-## Evaluation
-
-90% of the project grade will be shared by members of your teams.  This will consist of:
-* 40% code (quality, correctness, etc.)
-* 50% report
-
-10% of project work will be based on teammate evaluations.  These evaluations will be kept confidential.  If you believe your score to be unfair, you can reach out to the instruction staff.  We will look at git logs/history if we need to resolve any disputes.

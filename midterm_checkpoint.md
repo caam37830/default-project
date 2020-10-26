@@ -30,7 +30,7 @@ The discrete simulation should be implemented using a class which can be used to
 
 In the ODE simulation, you will model time dependent variables: `S, I, R` which represent the total number of individuals in each population (if the total population has `N` individuals, then `S + I + R = N` at all times), as well as `s, i, r`, the fraction of each population in the total population, e.g. `s(t) = S(t) / N` (i.e. `s + i + r = 1` at all times).
 
-Implement unit tests in a `test` folder.  These should include tests to verify that your class methods do what you think they do, and that your ODE simulation satisfies the equations above for some choices of parameter.
+Implement unit tests in a `test` folder.  These should include tests to verify that your class methods do what you think they do, and that your ODE simulation satisfies the equations above for some choices of parameter.  Set up these tests to run automatically when changes are pushed to GitHub.
 
 ## Simulations
 
@@ -44,7 +44,7 @@ How well do the discrete and ODE simulations agree?
 
 ## Report
 
-In addition to the code you will write, you should prepare a preliminary report.  This can either be a PDF or a file viewable from a web browser.  Put your report in the `doc/checkpoint` folder in the repository, which should contain any files and figures, as well as instructions to generate the PDF or html files (if they are generated from LaTeX, Markdown, etc.)
+In addition to the code you will write, you should prepare a preliminary report.  This can either be a PDF or a file which can be viewed in a web browser.  Put your report in the `doc/checkpoint` folder in the repository, which should contain any files and figures, as well as instructions to generate the PDF or html files (if they are generated from LaTeX, Markdown, etc.)
 
 Your report should have 4 sections.
 1. A brief introduction to the SIR model, and notation you will use.  You can use [`SIR.md`](SIR.md), or other resources (cite any other resources that contribute to your discussion).
@@ -64,3 +64,11 @@ Section 4 should include 1 proposed variation for each member of the group (e.g.
 4. If your variation uses a model or idea from a paper or website, include any references
 
 If you have specific questions for the course staff, please also list them for each model.
+
+## Evaluation
+
+90% of the checkpoint grade will be shared by members of your teams.  This will consist of:
+* 40% code (quality, correctness, etc.)
+* 50% preliminary report
+
+10% of the checkpoint grade will be based on teammate evaluations.  These evaluations will be kept confidential.  If you believe your score to be unfair, you can reach out to the instruction staff.  We will look at git logs/history if we need to resolve any disputes.

@@ -32,7 +32,7 @@ Now, we'll update the ODE model to be a PDE.  Like the agent based model, we'll 
 2. `\partial r(x, t)/ \partial t = k * i(x, t) + p * L r(x, t)`
 3. `\partial i(x, t)/ \partial t = b * s(x, t) * i(x, t) - k * i(x, t) + p * L i(x, t)`
 
-Where `L` is the 2-dimensional Laplacian.  Note that you can turn this into a system of ODEs by vectorizing the 2-dimensional arrays `s`, `i` and `r`.  In this case, we keep the variable `b` and don't use the variable `q` (in the agent based model), but we do use the variable `p` to weight the diffusion term (note that you can relate this to the variable `p` in the agent-based model, but you need to make sure you take into account the finite difference step size `1/M` - you do not need to derive this in your report).
+Where `L` is the 2-dimensional Laplacian (remember to weight your second derivatives by `h**2 = 1/M ** 2`).  Note that you can turn this into a system of ODEs by vectorizing the 2-dimensional arrays `s`, `i` and `r`.  In this case, we keep the parameter `b` and don't use the parameter `q` (in the agent based model), but we do use the parameter `p` to weight the diffusion term (note that you can relate this to the parameter `p` in the agent-based zmodel, but you need to make sure you take into account the finite difference step size `1/M` - you do not need to derive this in your report).
 
 Again, choose `b` and `k` to be near the phase transition boundary, and explore the following questions:
 1. If infected individuals start at the center of the square, how does the total number of individuals infected in the simulation change with the parameter `p`?

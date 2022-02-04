@@ -1,6 +1,6 @@
 # Final Report
 
-The final report will be due 12/9 at 12pm (noon) Chicago time.
+The final report will be due during finals week.
 
 For the final report, you should do the following:
 1. Add spatial components to your agent-based and ODE models.  See [spatial.md](spatial.md) for instructions.

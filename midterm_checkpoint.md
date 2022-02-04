@@ -1,6 +1,6 @@
 # Midterm Checkpoint
 
-The midterm checkpoint will be due 11/13 at 12pm (noon) Chicago time.
+The midterm checkpoint will be due 2/23 at 1:29pm Chicago time.
 
 For the midterm checkpoint, you should do the following:
 1. Read about the SIR model of disease spread - you can find information in [SIR.md](SIR.md).

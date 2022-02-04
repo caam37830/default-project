@@ -55,3 +55,4 @@ The final report will be due during finals period.
 ## Due Dates
 
 * The Midterm checkpoint will be due 2/23 at 1:29pm Chicago time.
+* The Final Report will be due during finals week.
